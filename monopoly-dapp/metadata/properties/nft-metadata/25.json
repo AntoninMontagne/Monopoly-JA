@@ -1,0 +1,37 @@
+{
+  "name": "Gare Saint-Lazare",
+  "description": "Propriete Monopoly: Gare Saint-Lazare. Type: STATION",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/gare-saint-lazare.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STATION"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 200
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 25
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#000000"
+    },
+    {
+      "trait_type": "Position",
+      "value": 35
+    }
+  ],
+  "properties": {
+    "type": "STATION",
+    "value": 200,
+    "rent": 25,
+    "color": "#000000",
+    "position": 35,
+    "previousOwners": [],
+    "createdAt": 1769094044199,
+    "lastTransferAt": 1769094044199
+  }
+}

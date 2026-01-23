@@ -1,0 +1,37 @@
+{
+  "name": "Rue de la Paix",
+  "description": "Propriete Monopoly: Rue de la Paix. Type: STREET_DARKBLUE",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/rue-de-la-paix.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_DARKBLUE"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 400
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 50
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#00008B"
+    },
+    {
+      "trait_type": "Position",
+      "value": 39
+    }
+  ],
+  "properties": {
+    "type": "STREET_DARKBLUE",
+    "value": 400,
+    "rent": 50,
+    "color": "#00008B",
+    "position": 39,
+    "previousOwners": [],
+    "createdAt": 1769094044196,
+    "lastTransferAt": 1769094044196
+  }
+}

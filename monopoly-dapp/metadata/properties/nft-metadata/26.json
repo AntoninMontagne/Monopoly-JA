@@ -1,0 +1,37 @@
+{
+  "name": "Compagnie de distribution d'électricité",
+  "description": "Propriete Monopoly: Compagnie de distribution d'électricité. Type: UTILITY",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/electricite.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "UTILITY"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 150
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 0
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#FFD700"
+    },
+    {
+      "trait_type": "Position",
+      "value": 12
+    }
+  ],
+  "properties": {
+    "type": "UTILITY",
+    "value": 150,
+    "rent": 0,
+    "color": "#FFD700",
+    "position": 12,
+    "previousOwners": [],
+    "createdAt": 1769094044200,
+    "lastTransferAt": 1769094044200
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Place de la Bourse",
+  "description": "Propriete Monopoly: Place de la Bourse. Type: STREET_YELLOW",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/bourse.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_YELLOW"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 260
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 22
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#FFFF00"
+    },
+    {
+      "trait_type": "Position",
+      "value": 27
+    }
+  ],
+  "properties": {
+    "type": "STREET_YELLOW",
+    "value": 260,
+    "rent": 22,
+    "color": "#FFFF00",
+    "position": 27,
+    "previousOwners": [],
+    "createdAt": 1769094044192,
+    "lastTransferAt": 1769094044192
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Gare du Nord",
+  "description": "Propriete Monopoly: Gare du Nord. Type: STATION",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/gare-nord.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STATION"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 200
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 25
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#000000"
+    },
+    {
+      "trait_type": "Position",
+      "value": 25
+    }
+  ],
+  "properties": {
+    "type": "STATION",
+    "value": 200,
+    "rent": 25,
+    "color": "#000000",
+    "position": 25,
+    "previousOwners": [],
+    "createdAt": 1769094044199,
+    "lastTransferAt": 1769094044199
+  }
+}

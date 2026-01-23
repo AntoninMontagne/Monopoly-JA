@@ -1,0 +1,37 @@
+{
+  "name": "Rue de Paradis",
+  "description": "Propriete Monopoly: Rue de Paradis. Type: STREET_PINK",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/paradis.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_PINK"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 160
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 12
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#FF69B4"
+    },
+    {
+      "trait_type": "Position",
+      "value": 14
+    }
+  ],
+  "properties": {
+    "type": "STREET_PINK",
+    "value": 160,
+    "rent": 12,
+    "color": "#FF69B4",
+    "position": 14,
+    "previousOwners": [],
+    "createdAt": 1769094044188,
+    "lastTransferAt": 1769094044188
+  }
+}

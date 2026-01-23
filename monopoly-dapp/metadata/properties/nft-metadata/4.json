@@ -1,0 +1,37 @@
+{
+  "name": "Avenue de la République",
+  "description": "Propriete Monopoly: Avenue de la République. Type: STREET_LIGHTBLUE",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/republique.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_LIGHTBLUE"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 120
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 8
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#87CEEB"
+    },
+    {
+      "trait_type": "Position",
+      "value": 9
+    }
+  ],
+  "properties": {
+    "type": "STREET_LIGHTBLUE",
+    "value": 120,
+    "rent": 8,
+    "color": "#87CEEB",
+    "position": 9,
+    "previousOwners": [],
+    "createdAt": 1769094044186,
+    "lastTransferAt": 1769094044186
+  }
+}

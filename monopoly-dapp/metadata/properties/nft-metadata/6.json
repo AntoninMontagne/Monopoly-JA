@@ -1,0 +1,37 @@
+{
+  "name": "Avenue de Neuilly",
+  "description": "Propriete Monopoly: Avenue de Neuilly. Type: STREET_PINK",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/neuilly.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_PINK"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 140
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 10
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#FF69B4"
+    },
+    {
+      "trait_type": "Position",
+      "value": 13
+    }
+  ],
+  "properties": {
+    "type": "STREET_PINK",
+    "value": 140,
+    "rent": 10,
+    "color": "#FF69B4",
+    "position": 13,
+    "previousOwners": [],
+    "createdAt": 1769094044187,
+    "lastTransferAt": 1769094044187
+  }
+}

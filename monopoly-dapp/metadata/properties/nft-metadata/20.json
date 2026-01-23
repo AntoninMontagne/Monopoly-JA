@@ -1,0 +1,37 @@
+{
+  "name": "Avenue des Champs-Élysées",
+  "description": "Propriete Monopoly: Avenue des Champs-Élysées. Type: STREET_DARKBLUE",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/champs-elysees.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_DARKBLUE"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 350
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 35
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#00008B"
+    },
+    {
+      "trait_type": "Position",
+      "value": 37
+    }
+  ],
+  "properties": {
+    "type": "STREET_DARKBLUE",
+    "value": 350,
+    "rent": 35,
+    "color": "#00008B",
+    "position": 37,
+    "previousOwners": [],
+    "createdAt": 1769094044196,
+    "lastTransferAt": 1769094044196
+  }
+}

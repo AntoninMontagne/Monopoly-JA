@@ -1,0 +1,37 @@
+{
+  "name": "Boulevard de Belleville",
+  "description": "Propriete Monopoly: Boulevard de Belleville. Type: STREET_BROWN",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/belleville.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_BROWN"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 60
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 2
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#8B4513"
+    },
+    {
+      "trait_type": "Position",
+      "value": 1
+    }
+  ],
+  "properties": {
+    "type": "STREET_BROWN",
+    "value": 60,
+    "rent": 2,
+    "color": "#8B4513",
+    "position": 1,
+    "previousOwners": [],
+    "createdAt": 1769094044180,
+    "lastTransferAt": 1769094044180
+  }
+}

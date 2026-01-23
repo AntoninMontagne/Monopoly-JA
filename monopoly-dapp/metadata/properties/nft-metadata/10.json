@@ -1,0 +1,37 @@
+{
+  "name": "Place Pigalle",
+  "description": "Propriete Monopoly: Place Pigalle. Type: STREET_ORANGE",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/pigalle.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_ORANGE"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 200
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 16
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#FFA500"
+    },
+    {
+      "trait_type": "Position",
+      "value": 19
+    }
+  ],
+  "properties": {
+    "type": "STREET_ORANGE",
+    "value": 200,
+    "rent": 16,
+    "color": "#FFA500",
+    "position": 19,
+    "previousOwners": [],
+    "createdAt": 1769094044190,
+    "lastTransferAt": 1769094044190
+  }
+}

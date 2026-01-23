@@ -1,0 +1,37 @@
+{
+  "name": "Avenue de Breteuil",
+  "description": "Propriete Monopoly: Avenue de Breteuil. Type: STREET_GREEN",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/breteuil.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_GREEN"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 300
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 26
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#008000"
+    },
+    {
+      "trait_type": "Position",
+      "value": 31
+    }
+  ],
+  "properties": {
+    "type": "STREET_GREEN",
+    "value": 300,
+    "rent": 26,
+    "color": "#008000",
+    "position": 31,
+    "previousOwners": [],
+    "createdAt": 1769094044194,
+    "lastTransferAt": 1769094044194
+  }
+}

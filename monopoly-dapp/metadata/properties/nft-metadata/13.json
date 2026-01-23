@@ -1,0 +1,37 @@
+{
+  "name": "Avenue Henri-Martin",
+  "description": "Propriete Monopoly: Avenue Henri-Martin. Type: STREET_RED",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/henri-martin.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_RED"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 240
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 20
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#FF0000"
+    },
+    {
+      "trait_type": "Position",
+      "value": 24
+    }
+  ],
+  "properties": {
+    "type": "STREET_RED",
+    "value": 240,
+    "rent": 20,
+    "color": "#FF0000",
+    "position": 24,
+    "previousOwners": [],
+    "createdAt": 1769094044191,
+    "lastTransferAt": 1769094044191
+  }
+}

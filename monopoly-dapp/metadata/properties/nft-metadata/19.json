@@ -1,0 +1,37 @@
+{
+  "name": "Boulevard des Capucines",
+  "description": "Propriete Monopoly: Boulevard des Capucines. Type: STREET_GREEN",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/capucines.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_GREEN"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 320
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 28
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#008000"
+    },
+    {
+      "trait_type": "Position",
+      "value": 34
+    }
+  ],
+  "properties": {
+    "type": "STREET_GREEN",
+    "value": 320,
+    "rent": 28,
+    "color": "#008000",
+    "position": 34,
+    "previousOwners": [],
+    "createdAt": 1769094044195,
+    "lastTransferAt": 1769094044195
+  }
+}

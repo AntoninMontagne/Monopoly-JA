@@ -1,0 +1,37 @@
+{
+  "name": "Rue La Fayette",
+  "description": "Propriete Monopoly: Rue La Fayette. Type: STREET_YELLOW",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/lafayette.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_YELLOW"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 280
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 24
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#FFFF00"
+    },
+    {
+      "trait_type": "Position",
+      "value": 29
+    }
+  ],
+  "properties": {
+    "type": "STREET_YELLOW",
+    "value": 280,
+    "rent": 24,
+    "color": "#FFFF00",
+    "position": 29,
+    "previousOwners": [],
+    "createdAt": 1769094044193,
+    "lastTransferAt": 1769094044193
+  }
+}

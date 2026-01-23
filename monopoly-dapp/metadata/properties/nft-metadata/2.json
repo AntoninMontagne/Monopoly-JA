@@ -1,0 +1,37 @@
+{
+  "name": "Rue de Vaugirard",
+  "description": "Propriete Monopoly: Rue de Vaugirard. Type: STREET_LIGHTBLUE",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/vaugirard.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_LIGHTBLUE"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 100
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 6
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#87CEEB"
+    },
+    {
+      "trait_type": "Position",
+      "value": 6
+    }
+  ],
+  "properties": {
+    "type": "STREET_LIGHTBLUE",
+    "value": 100,
+    "rent": 6,
+    "color": "#87CEEB",
+    "position": 6,
+    "previousOwners": [],
+    "createdAt": 1769094044185,
+    "lastTransferAt": 1769094044185
+  }
+}

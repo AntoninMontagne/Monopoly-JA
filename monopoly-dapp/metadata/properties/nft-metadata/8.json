@@ -1,0 +1,37 @@
+{
+  "name": "Avenue Mozart",
+  "description": "Propriete Monopoly: Avenue Mozart. Type: STREET_ORANGE",
+  "image": "ipfs://bafybeicp4qrz7a5l5hyvoujka5eijau2qtas4rmglwuwthzpzbjmun5krm/mozart.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "STREET_ORANGE"
+    },
+    {
+      "trait_type": "Valeur",
+      "value": 180
+    },
+    {
+      "trait_type": "Loyer de base",
+      "value": 14
+    },
+    {
+      "trait_type": "Couleur",
+      "value": "#FFA500"
+    },
+    {
+      "trait_type": "Position",
+      "value": 16
+    }
+  ],
+  "properties": {
+    "type": "STREET_ORANGE",
+    "value": 180,
+    "rent": 14,
+    "color": "#FFA500",
+    "position": 16,
+    "previousOwners": [],
+    "createdAt": 1769094044189,
+    "lastTransferAt": 1769094044189
+  }
+}
