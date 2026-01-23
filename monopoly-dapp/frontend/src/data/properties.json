@@ -1,0 +1,32 @@
+{
+  "properties": [
+    { "id": 0, "name": "Boulevard de Belleville", "type": "STREET_BROWN", "value": 60, "rent": 2 },
+    { "id": 1, "name": "Rue Lecourbe", "type": "STREET_BROWN", "value": 60, "rent": 4 },
+    { "id": 2, "name": "Rue de Vaugirard", "type": "STREET_LIGHTBLUE", "value": 100, "rent": 6 },
+    { "id": 3, "name": "Rue de Courcelles", "type": "STREET_LIGHTBLUE", "value": 100, "rent": 6 },
+    { "id": 4, "name": "Avenue de la Republique", "type": "STREET_LIGHTBLUE", "value": 120, "rent": 8 },
+    { "id": 5, "name": "Boulevard de la Villette", "type": "STREET_PINK", "value": 140, "rent": 10 },
+    { "id": 6, "name": "Avenue de Neuilly", "type": "STREET_PINK", "value": 140, "rent": 10 },
+    { "id": 7, "name": "Rue de Paradis", "type": "STREET_PINK", "value": 160, "rent": 12 },
+    { "id": 8, "name": "Avenue Mozart", "type": "STREET_ORANGE", "value": 180, "rent": 14 },
+    { "id": 9, "name": "Boulevard Saint-Michel", "type": "STREET_ORANGE", "value": 180, "rent": 14 },
+    { "id": 10, "name": "Place Pigalle", "type": "STREET_ORANGE", "value": 200, "rent": 16 },
+    { "id": 11, "name": "Avenue Matignon", "type": "STREET_RED", "value": 220, "rent": 18 },
+    { "id": 12, "name": "Boulevard Malesherbes", "type": "STREET_RED", "value": 220, "rent": 18 },
+    { "id": 13, "name": "Avenue Henri-Martin", "type": "STREET_RED", "value": 240, "rent": 20 },
+    { "id": 14, "name": "Faubourg Saint-Honore", "type": "STREET_YELLOW", "value": 260, "rent": 22 },
+    { "id": 15, "name": "Place de la Bourse", "type": "STREET_YELLOW", "value": 260, "rent": 22 },
+    { "id": 16, "name": "Rue La Fayette", "type": "STREET_YELLOW", "value": 280, "rent": 24 },
+    { "id": 17, "name": "Avenue de Breteuil", "type": "STREET_GREEN", "value": 300, "rent": 26 },
+    { "id": 18, "name": "Avenue Foch", "type": "STREET_GREEN", "value": 300, "rent": 26 },
+    { "id": 19, "name": "Boulevard des Capucines", "type": "STREET_GREEN", "value": 320, "rent": 28 },
+    { "id": 20, "name": "Avenue des Champs-Elysees", "type": "STREET_DARKBLUE", "value": 350, "rent": 35 },
+    { "id": 21, "name": "Rue de la Paix", "type": "STREET_DARKBLUE", "value": 400, "rent": 50 },
+    { "id": 22, "name": "Gare Montparnasse", "type": "STATION", "value": 200, "rent": 25 },
+    { "id": 23, "name": "Gare de Lyon", "type": "STATION", "value": 200, "rent": 25 },
+    { "id": 24, "name": "Gare du Nord", "type": "STATION", "value": 200, "rent": 25 },
+    { "id": 25, "name": "Gare Saint-Lazare", "type": "STATION", "value": 200, "rent": 25 },
+    { "id": 26, "name": "Compagnie d'electricite", "type": "UTILITY", "value": 150, "rent": 0 },
+    { "id": 27, "name": "Compagnie des eaux", "type": "UTILITY", "value": 150, "rent": 0 }
+  ]
+}
