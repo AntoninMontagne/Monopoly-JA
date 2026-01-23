@@ -1,0 +1,79 @@
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+
+.App-header {
+  padding: 40px 20px;
+  text-align: center;
+  color: white;
+}
+
+.App-header h1 {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.connect-section {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 40px;
+  border-radius: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.connect-section p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.connect-btn {
+  background: linear-gradient(90deg, #f6851b, #e2761b);
+  color: white;
+  border: none;
+  padding: 15px 40px;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.connect-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 20px rgba(246, 133, 27, 0.4);
+}
+
+.connect-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.wallet-info {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 30px;
+  border-radius: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.wallet-info p {
+  font-size: 1.1rem;
+  margin: 10px 0;
+}
+
+.address {
+  font-family: monospace;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.balance {
+  color: #4ade80;
+  font-weight: bold;
+}
+
+.error {
+  color: #ff6b6b;
+  margin-top: 15px;
+}
