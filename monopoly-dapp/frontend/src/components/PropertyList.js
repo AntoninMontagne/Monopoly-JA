@@ -14,7 +14,7 @@ function PropertyList({ properties, ownedIds, onBuy, onTrade, canBuy }) {
   const filteredProperties = properties.filter(prop => {
     const isOwned = ownedIds.includes(prop.id);
     if (filter === 'owned') return isOwned;
-    if (filter === 'available') return !isOwned && prop.forSale;
+    if (filter === 'available') return prop.forSale;
     return true;
   });
 

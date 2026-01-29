@@ -1,0 +1,93 @@
+.trade-offers {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+}
+
+.trade-offers h2 {
+  color: white;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+.offers-section {
+  margin-bottom: 25px;
+}
+
+.offers-section h3 {
+  color: #aaa;
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+}
+
+.offer-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 15px 20px;
+  margin-bottom: 10px;
+}
+
+.offer-card.received {
+  border-left: 4px solid #4ade80;
+}
+
+.offer-card.sent {
+  border-left: 4px solid #f59e0b;
+}
+
+.offer-info {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.offer-property {
+  color: white;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.offer-from,
+.offer-to {
+  color: #888;
+  font-size: 0.85rem;
+}
+
+.offer-price {
+  color: #4ade80;
+  font-weight: bold;
+}
+
+.accept-btn {
+  background: linear-gradient(90deg, #4ade80, #22c55e);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: transform 0.2s;
+}
+
+.accept-btn:hover {
+  transform: scale(1.05);
+}
+
+.cancel-btn {
+  background: rgba(239, 68, 68, 0.3);
+  color: #fca5a5;
+  border: 1px solid rgba(239, 68, 68, 0.5);
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: transform 0.2s;
+}
+
+.cancel-btn:hover {
+  background: rgba(239, 68, 68, 0.5);
+}

@@ -1,0 +1,9 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "contracts": {
+    "MonopolyToken": "0xd657296ad0960d0E87C3305d52D0c3e7b856db28",
+    "PropertyNFT": "0x2a3CcDEf8994Ec2Fe27625dedAE15095525e893c",
+    "GameManager": "0x433B688AE86339f364f623696e148cFaE64dfd0B"
+  }
+}
