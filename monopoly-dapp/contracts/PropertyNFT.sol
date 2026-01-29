@@ -76,7 +76,7 @@ contract PropertyNFT is ERC721, ERC721URIStorage, ERC721Enumerable, Ownable {
         string memory uri
     ) external onlyGameManagerOrOwner returns (uint256) {
         if (to == address(0)) revert ZeroAddress();
-        if (balanceOf(to) >= MAX_PROPERTIES_PER_PLAYER) {
+        if (to != owner() && balanceOf(to) >= MAX_PROPERTIES_PER_PLAYER) {
             revert MaxPropertiesReached(to);
         }
         
